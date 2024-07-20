@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korexma
-- 👀 I’m interested in Web Dev using Django, Data science, Machine Learning and Blockchain Dev
-- 🌱 I’m currently learning Blockchain Dev
+- 👀 I’m interested in Data Engineering and Machine Learning
+- 🌱 I’m currently in the learning phase of Data Engineering
 - 💞️ I’m looking to collaborate on any of those mentioned above
 - 📫 How to reach me [Twitter (@korex_F), Email (korexma011@gmail.com)]
 
